@@ -1,5 +1,4 @@
 # Diwali-Sales-Analysis-with-Python-and-EDA
-Here are the key points you can include in your GitHub README file for the Diwali Sales Analysis project to impress recruiters:
 
 ## Project Overview
 - A comprehensive sales data analysis project focused on the Diwali sales season.
